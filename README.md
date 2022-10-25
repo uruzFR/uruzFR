@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uruz
 - 👀 I’m interested in unix
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on database GUI
+- 💞️ I’m trying to find out how to automate an installation with ansible
 - 📫 How to reach me : Discord Uruz#6183
 
 <!---
